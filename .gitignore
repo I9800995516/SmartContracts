@@ -27,3 +27,20 @@ typechain-types
 # Hardhat files
 cache
 artifacts
+
+
+.VSCodeCounter
+ignition/modules
+node_modules
+summercamp
+test
+hardhat.config.ts
+package-lock.json
+package.json
+tsconfig.json
+
+
+
+
+
+
