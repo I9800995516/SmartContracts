@@ -21,3 +21,5 @@ function getUint88Elem(uint256 index) external view returns (uint88) {
     }
     return value;
 }
+
+//комменты
